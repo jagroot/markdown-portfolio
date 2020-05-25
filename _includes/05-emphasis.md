@@ -1,1 +1,7 @@
-I am good at *using italics* and **using bold text**. 
+# Skills
+
+Below is a *list* of my **techical** skills:
+
+## Programming Lanugages
+- Python
+- Java
